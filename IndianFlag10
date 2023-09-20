@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        .orange{
+            width: 50%;
+            height: 100px;
+        }
+        .green{
+            width: 50%;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <hr color="orange" class="orange" ><br>
+    <img src="https://usercontent1.hubstatic.com/508416.png" width="100px" height="100px">
+    <hr color="green" class="green">
+</body>
+</html>
