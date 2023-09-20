@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <h1>My Webpage with an Image</h1>
+    <p>Here's an image of a beautiful landscape:</p>
+    <img src="image.jpg" alt="Beautiful Landscape" width="400" height="300">
+</body>
+</html>
